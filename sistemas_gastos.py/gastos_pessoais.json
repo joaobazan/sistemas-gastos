@@ -1,0 +1,10 @@
+[
+    {
+        "id": 1,
+        "tipo": "Despesa",
+        "descricao": "salario",
+        "categoria": "Lazer",
+        "valor": 900.0,
+        "data": "06/11/2026 10:50"
+    }
+]
